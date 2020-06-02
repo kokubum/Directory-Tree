@@ -33,8 +33,8 @@ def tree_generator(dir_path,limit_level,idt = IDENTATION):
 
 def create_image(height,option):
     if option == 'yes':
-        img = Image.new('RGB',(1920,18*height + 15),color=(255,255,255))
-        fnt = ImageFont.truetype('DejaVuSans.ttf',15)
+        img = Image.new('RGB',(1920,23*height + 20),color=(255,255,255))
+        fnt = ImageFont.truetype('DejaVuSans.ttf',20)
         draw = ImageDraw.Draw(img)
         
         with open('tree.txt','r') as f:
