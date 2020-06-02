@@ -40,4 +40,5 @@ python3 run.py
  ```
   * Optional .png file with the same tree.
   
+![tree](https://user-images.githubusercontent.com/47634578/83577703-4b040780-a50b-11ea-91a7-dec31a5cc960.png)
   
