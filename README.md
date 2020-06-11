@@ -8,13 +8,12 @@ Clone this repository:
 ```
 git clone https://github.com/kokubum/Directory-Tree.git
 ```
-
-### Running
-
-Installing the PIL library:
+If you don't have the PIL library:
 ```
 python3 -m pip install --upgrade Pillow
 ```
+### Running
+
 Run the script:
 ```
 python3 run.py
